@@ -1,0 +1,1 @@
+To run the game you need python and pygame install, then simply run the program inside a code editor
